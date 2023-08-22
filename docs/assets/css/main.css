@@ -1,0 +1,20 @@
+--- 
+--- 
+
+p {
+    word-break: break-word !important;
+    text-align: justify !important;
+}
+
+li {
+    word-break: break-word !important;
+    text-align: justify !important;
+}
+
+mjx-container {
+    font-size: 1.5rem !important;
+}
+
+.project-tagline-override-opacity {
+    opacity: 1 !important;
+}

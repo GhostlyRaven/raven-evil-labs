@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman
+title: EVIL LABS
+description: Самые легкие лабораторные работы во вселенной 🌌 😂
+
+repository-src-baseurl: https://github.com/GhostlyRaven/raven-evil-labs/tree/main/src
+repository-files-baseurl: https://raw.githubusercontent.com/GhostlyRaven/raven-evil-labs/main/files
+repository-images-baseurl: https://raw.githubusercontent.com/GhostlyRaven/raven-evil-labs/main/images
+
+external-links:
+  item-1: https://code.visualstudio.com
+  item-2: https://visualstudio.microsoft.com/ru
+  item-3: https://www.jetbrains.com/ru-ru/rider
+  item-4: https://dotnet.microsoft.com/en-us/download
+  item-5: https://anylogic.help/ru
+  item-6: https://www.anylogic.ru/downloads/personal-learning-edition-download
+  item-7: https://drive.google.com/uc?export=download&id=10LtVj-F3rTx46ziE7xZEFo9DHl91z6Ct
