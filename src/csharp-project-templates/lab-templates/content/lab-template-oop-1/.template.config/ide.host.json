@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json.schemastore.org/vs-2017.3.host",
+    "order": 0,
+    "icon": "..\\..\\..\\raven-logo-128.png",
+    "symbolInfo": [
+        {
+            "id": "Framework",
+            "name": {
+                "text": "Framework"
+            },
+            "isVisible": true
+        },
+        {
+            "id": "Variant",
+            "name": {
+                "text": "Variant"
+            },
+            "isVisible": true
+        }
+    ]
+}

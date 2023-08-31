@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>LabTemplates</id>
+    <version>1.0.0.0</version>  
+    <authors>GhostlyRaven</authors>
+    <icon>raven-logo-128.png</icon>
+    <tags>dotnet templates labs</tags>
+    <description>Lab templates</description>
+    <license type="expression">MIT</license>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="..\..\..\images\raven-logo-128.png" target="\" />
+    <file src="**" exclude="**\bin\**\*;**\obj\**\*;**\*.user;**\*.lock.json;_rels\**\*;package\**\*" />
+  </files>
+</package>

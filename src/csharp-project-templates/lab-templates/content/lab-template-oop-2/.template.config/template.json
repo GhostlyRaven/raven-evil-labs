@@ -1,0 +1,113 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Ghostly Raven",
+    "identity": "lab-oop-2",
+    "shortName": "lab-oop-2",
+    "name": "Lab on OOP #2",
+    "description": "Lab on OOP #2",
+    "preferNameDirectory": true,
+    "sourceName": "LabTemplate",
+    "classifications": [
+        "Library",
+        "Test"
+    ],
+    "tags": {
+        "language": "C#",
+        "type": "solution"
+    },
+    "symbols": {
+        "Framework": {
+            "type": "parameter",
+            "datatype": "choice",
+            "defaultValue": "net7.0",
+            "replaces": "{TargetFramework}",
+            "choices": [
+                {
+                    "choice": "net6.0"
+                },
+                {
+                    "choice": "net7.0"
+                },
+                {
+                    "choice": "net8.0"
+                }
+            ]
+        },
+        "Variant": {
+            "type": "parameter",
+            "datatype": "choice",
+            "defaultValue": "Variant #1",
+            "choices": [
+                {
+                    "choice": "Variant #1"
+                },
+                {
+                    "choice": "Variant #2"
+                },
+                {
+                    "choice": "Variant #3"
+                },
+                {
+                    "choice": "Variant #4"
+                },
+                {
+                    "choice": "Variant #5"
+                },
+                {
+                    "choice": "Variant #6"
+                },
+                {
+                    "choice": "Variant #7"
+                },
+                {
+                    "choice": "Variant #8"
+                },
+                {
+                    "choice": "Variant #9"
+                }
+            ]
+        }
+    },
+    "sources": [
+        {
+            "modifiers": [
+                {
+                    "condition": "(Variant == \"Variant #1\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #2\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #3\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #4\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #5\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #6\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #7\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #8\")",
+                    "exclude": []
+                },
+                {
+                    "condition": "(Variant == \"Variant #9\")",
+                    "exclude": []
+                }
+            ]
+        }
+    ]
+}
