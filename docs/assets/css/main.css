@@ -11,22 +11,9 @@ li {
     text-align: justify !important;
 }
 
-mjx-container {
-    font-size: 1.5rem !important;
-}
-
 .project-tagline-override-opacity {
     opacity: 1 !important;
 }
 
-li:has(> a#oop-list-item-1){
-    list-style-type: '🍄';
-}
-
-li:has(> a#oop-list-item-2){
-    list-style-type: '⚔️';
-}
-
-a#oop-list-item-1 a#oop-list-item-2{
-    padding-inline-start: 10px;
-}
+@import url("math.css");
+@import url("object-oriented-programming.css");
