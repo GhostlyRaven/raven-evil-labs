@@ -19,10 +19,10 @@ mjx-container {
     opacity: 1 !important;
 }
 
-li#oop-list-item-1{
+li:has(> a#oop-list-item-1){
     list-style-type: '🍄';
 }
 
-li#oop-list-item-2{
+li:has(> a#oop-list-item-2){
     list-style-type: '⚔️';
 }
