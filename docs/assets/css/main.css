@@ -19,7 +19,10 @@ mjx-container {
     opacity: 1 !important;
 }
 
-div#custom-list-labs ul{
-    list-style-type: none;
-    padding-inline-start: 10px;
+li#oop-list-item-1{
+    list-style-type: '🍄';
+}
+
+li#oop-list-item-2{
+    list-style-type: '⚔️';
 }

@@ -4,16 +4,12 @@
 
 ### **Лабораторные работы**
 
-* [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html){: #oop-list-item-1}
-
-<div id="custom-list-labs" markdown="1">
-* [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html)
-* [🍄 Лабораторная работа №2]({{ site.baseurl }}/object-oriented-programming/labs/lab-2.html)
-* [🍄 Лабораторная работа №3]({{ site.baseurl }}/object-oriented-programming/labs/lab-3.html)
-* [🍄 Лабораторная работа №4]({{ site.baseurl }}/object-oriented-programming/labs/lab-4.html)
-* [🍄 Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html)
-* [⚔️ Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html)
-</div>
+* [Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html){: #oop-list-item-1}
+* [Лабораторная работа №2]({{ site.baseurl }}/object-oriented-programming/labs/lab-2.html){: #oop-list-item-1}
+* [Лабораторная работа №3]({{ site.baseurl }}/object-oriented-programming/labs/lab-3.html){: #oop-list-item-1}
+* [Лабораторная работа №4]({{ site.baseurl }}/object-oriented-programming/labs/lab-4.html){: #oop-list-item-1}
+* [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html){: #oop-list-item-1}
+* [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html){: #oop-list-item-2}
 
 ### **Вопросы к экзамену или зачету**
 * [Список вопросов]({{ site.baseurl }}/object-oriented-programming/tickets/questions.html)
