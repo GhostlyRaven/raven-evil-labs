@@ -1,3 +1,6 @@
+# **ПРАВИЛА ДОПУСКА НА ЗАЧЕТ ИЛИ ЭКЗАМЕН**
+* [Открыть для просмотра]({{ site.baseurl }}/admission-rules/index.html)
+
 # **ПЕРЕЧЕНЬ ДИСЦИПЛИН**
 
 * [Моделирование систем]({{ site.baseurl }}/modeling-of-systems/index.html)
