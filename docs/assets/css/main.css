@@ -1,6 +1,14 @@
 --- 
 --- 
 
+.project-tagline-override-opacity {
+    opacity: 1 !important;
+}
+
+mjx-container {
+    font-size: 1.5rem !important;
+}
+
 p {
     word-break: break-word !important;
     text-align: justify !important;
@@ -11,9 +19,15 @@ li {
     text-align: justify !important;
 }
 
-.project-tagline-override-opacity {
-    opacity: 1 !important;
+li:has(> a#oop-list-item-1) {
+    list-style-type: '🍄';
 }
 
-@import url("math.css");
-@import url("object-oriented-programming.css");
+li:has(> a#oop-list-item-2) {
+    list-style-type: '⚔️';
+}
+
+a#oop-list-item-1,
+a#oop-list-item-2 {
+    padding-inline-start: 10px;
+}
