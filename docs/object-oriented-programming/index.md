@@ -9,7 +9,6 @@
 * [Лабораторная работа №4]({{ site.baseurl }}/object-oriented-programming/labs/lab-4.html)
 * [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html)
 * [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html)
-* [Лабораторная работа №7]({{ site.baseurl }}/object-oriented-programming/labs/lab-7.html)
 
 ### **Вопросы к экзамену или зачету**
 * [Список вопросов]({{ site.baseurl }}/object-oriented-programming/tickets/questions.html)

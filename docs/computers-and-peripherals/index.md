@@ -2,8 +2,11 @@
 
 # **ЭВМ И ПЕРИФЕРИЙНЫЕ УСТРОЙСТВА**
 
+### **Практики**
+* [Практика №1]({{ site.baseurl }}/computers-and-peripherals/practices/practice-1.html)
+
 ### **Лабораторные работы**
-#### ⚠️ **Находится в процессе разработки** ⚠️
+* [Лабораторная работа №1]({{ site.baseurl }}/computers-and-peripherals/labs/lab-1.html)
 
 ### **Вопросы к экзамену или зачету**
-#### ⚠️ **Находится в процессе разработки** ⚠️
+* [Список вопросов]({{ site.baseurl }}/computers-and-peripherals/tickets/questions.html)
