@@ -21,4 +21,5 @@ mjx-container {
 
 div#custom-list-labs ul{
     list-style-type: none;
+    padding-inline-start: 10px;
 }
