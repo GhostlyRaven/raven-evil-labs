@@ -3,7 +3,7 @@
 # **ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ**
 
 ### **Лабораторные работы**
-<div id="custom-list-labs">
+<div id="custom-list-labs" markdown="1">
 * [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html)
 * [🍄 Лабораторная работа №2]({{ site.baseurl }}/object-oriented-programming/labs/lab-2.html)
 * [🍄 Лабораторная работа №3]({{ site.baseurl }}/object-oriented-programming/labs/lab-3.html)
