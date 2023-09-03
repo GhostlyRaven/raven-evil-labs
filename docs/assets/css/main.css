@@ -18,3 +18,7 @@ mjx-container {
 .project-tagline-override-opacity {
     opacity: 1 !important;
 }
+
+div#custom-list-labs ul{
+    list-style-type: none;
+}
