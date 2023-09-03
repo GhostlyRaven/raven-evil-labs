@@ -4,7 +4,7 @@
 
 ### **Лабораторные работы**
 
-* [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html){#oop-list-item-1}
+* [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html){: #oop-list-item-1}
 
 <div id="custom-list-labs" markdown="1">
 * [🍄 Лабораторная работа №1]({{ site.baseurl }}/object-oriented-programming/labs/lab-1.html)
