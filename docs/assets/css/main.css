@@ -23,14 +23,10 @@ li:has(> a#oop-list-item-1){
     list-style-type: '🍄';
 }
 
-li:has(> a#oop-list-item-1)::marker{
-    margin-right: 10px;
-}
-
 li:has(> a#oop-list-item-2){
     list-style-type: '⚔️';
 }
 
-li:has(> a#oop-list-item-2)::marker{
-    margin-right: 10px;
+a#oop-list-item-1 a#oop-list-item-2{
+    padding-inline-start: 10px;
 }
