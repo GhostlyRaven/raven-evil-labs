@@ -1,0 +1,12 @@
+li:has(> a#oop-list-item-1) {
+    list-style-type: '🍄';
+}
+
+li:has(> a#oop-list-item-2) {
+    list-style-type: '⚔️';
+}
+
+a#oop-list-item-1,
+a#oop-list-item-2 {
+    padding-inline-start: 10px;
+}
