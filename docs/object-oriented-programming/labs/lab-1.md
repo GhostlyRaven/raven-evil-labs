@@ -25,3 +25,10 @@
     *   Настройка компилятора в файле CMakeLists.txt;
     *   Иерархическая настройка компилятора через файлы;
     *   Интеграция скриптовых действий в компиляторе при сборке.
+
+### **Список источников для ознакомления**
+*   [C#](https://metanit.com/sharp)
+*   [MSBuild](https://learn.microsoft.com/ru-ru/docs)
+*   [C++](https://metanit.com/cpp)
+*   [Clang](https://clang.llvm.org)
+*   [CMake](https://cmake.org)
