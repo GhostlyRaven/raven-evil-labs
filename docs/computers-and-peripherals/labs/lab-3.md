@@ -9,9 +9,9 @@
 ### **ЗАДАНИЕ**
 
 Дополнить первое консольное приложение (сервер) разрабатываемое в лабораторной работе №2 механизмом автоматического запуска второго консольного приложения (клиент). Запуск второго консольного приложения должен осуществляться для всех данных находящихся в очереди. Также второе консольное приложение должно будет выполнять математические расчёты на основе полученных данных согласно варианту. В процессе разработки приложений потребуется воспользоваться некоторыми из следующих классов:
-* [Process](https://learn.microsoft.com/ru-ru/dotnet/api/system.diagnostics.process?view=net-7.0);
-* [Функция Main](https://learn.microsoft.com/ru-ru/dotnet/csharp/fundamentals/program-structure/main-command-line)
-* [ProcessStartInfo](https://learn.microsoft.com/ru-ru/dotnet/api/system.diagnostics.processstartinfo?view=net-7.0).
+*   [Process](https://learn.microsoft.com/ru-ru/dotnet/api/system.diagnostics.process?view=net-7.0);
+*   [Функция Main](https://learn.microsoft.com/ru-ru/dotnet/csharp/fundamentals/program-structure/main-command-line)
+*   [ProcessStartInfo](https://learn.microsoft.com/ru-ru/dotnet/api/system.diagnostics.processstartinfo?view=net-7.0).
 
 ### **ВАРИАНТЫ**
 
