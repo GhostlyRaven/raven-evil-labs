@@ -5,7 +5,7 @@
     opacity: 1 !important;
 }
 
-.qr-code-container {
+.qr-code-image-container {
     display: flex;
     flex-direction: row;
     -webkit-align-items: center;
@@ -16,6 +16,10 @@
     -o-justify-content: center;
     justify-content: center;
     margin-bottom: 2rem;
+}
+
+.qr-code-image {
+    border-radius: 2rem;
 }
 
 p {
