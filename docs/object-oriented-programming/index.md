@@ -11,6 +11,10 @@
 * [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html){: #oop-list-item-1}
 * [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html){: #oop-list-item-2}
 
+### **Шаблоны для выполнения лабораторных работ**
+
+#### ⚠️ **Находятся в процессе разработки** ⚠️
+
 ### **Вопросы к экзамену или зачету**
 * [Список вопросов]({{ site.baseurl }}/object-oriented-programming/tickets/questions.html)
 

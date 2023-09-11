@@ -8,7 +8,7 @@
 
 ### **ЗАДАНИЕ**
 
-Разработать приложение согласно варианту при помощи следующих принципов и понятий ООП:
+Разработать консольное приложение согласно варианту при помощи схемы приложения, а также следующих принципов и понятий ООП:
 *	Класс, объект и экземпляр;
 *	Поле, метод, поле только для чтения и константа;
 *	Статический метод и класс;
@@ -25,6 +25,10 @@
 *	Задачи и асинхронное программирование;
 *   Основные классы стандартной библиотеки.
 
+### **Схема приложения в UML-нотации**
+
+#### ⚠️ **Находится в процессе разработки** ⚠️
+
 ### **ВАРИАНТЫ**
 
 | № | RU | ENG | Формулы |
@@ -37,7 +41,3 @@
 | **6** | **Эллипс и эллипсоид** | **Ellipse and ellipsoid** | [**Периметр**](https://www.webmath.ru/poleznoe/formules_15_12.php), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/ovals) **и** [**объем**](https://geleot.ru/education/math/geometry/volume/ellipsoid) |
 | **7** | **Трапеция и призма** | **Trapezoid and prism** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/trapezium), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/trapezium) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/prism) |
 | **8** | **Параллелограмм и параллелепипед** | **Parallelogram and parallelepiped** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/parallelogram), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/parallelogram) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/parallelepiped) |
-
-### **Схема приложения в UML-нотации**
-
-#### ⚠️ **Находится в процессе разработки** ⚠️
