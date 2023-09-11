@@ -5,6 +5,19 @@
     opacity: 1 !important;
 }
 
+.qr-code-container {
+    display: flex;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -o-justify-content: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
 p {
     word-break: break-word !important;
     text-align: justify !important;
