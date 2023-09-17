@@ -1,8 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<!--<TargetFramework>{TargetFramework}</TargetFramework>-->
-		<TargetFramework>net7.0</TargetFramework>
+		<TargetFramework>{TargetFramework}</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>

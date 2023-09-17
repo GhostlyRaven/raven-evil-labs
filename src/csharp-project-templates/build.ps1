@@ -32,7 +32,7 @@ PrintSeparationLine
 PrintInformation "The build of the Nuget packages with templates has begun:"
 
 foreach ($projectTemplate in $projectTemplates) {
-    if ($(Start-Process -FilePath "./tools/nuget" -ArgumentList "pack $($projectTemplate.Path) -OutputDirectory ../../packages" -WindowStyle Hidden -PassThru -Wait).ExitCode -eq 0) {
+    if ($(Start-Process -FilePath "./tools/nuget" -ArgumentList "pack $($projectTemplate.Path) -OutputDirectory ../../files/all-packages" -WindowStyle Hidden -PassThru -Wait).ExitCode -eq 0) {
         PrintInformation "$($currentNumberProjectTemplates). $($projectTemplate.Name) - successfully."
     }
     else {

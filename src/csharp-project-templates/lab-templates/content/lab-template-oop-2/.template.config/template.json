@@ -61,9 +61,6 @@
                 },
                 {
                     "choice": "Variant #8"
-                },
-                {
-                    "choice": "Variant #9"
                 }
             ]
         }
@@ -101,10 +98,6 @@
                 },
                 {
                     "condition": "(Variant == \"Variant #8\")",
-                    "exclude": []
-                },
-                {
-                    "condition": "(Variant == \"Variant #9\")",
                     "exclude": []
                 }
             ]

@@ -4,10 +4,6 @@
         "Framework": {
             "longName": "framework",
             "shortName": "f"
-        },
-        "Variant": {
-            "longName": "variant",
-            "shortName": "v"
         }
     }
 }

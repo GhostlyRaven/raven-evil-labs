@@ -9,13 +9,6 @@
                 "text": "Framework"
             },
             "isVisible": true
-        },
-        {
-            "id": "Variant",
-            "name": {
-                "text": "Variant"
-            },
-            "isVisible": true
         }
     ]
 }
