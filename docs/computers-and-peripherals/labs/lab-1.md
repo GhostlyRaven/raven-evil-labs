@@ -16,4 +16,6 @@
 *   [Span](https://learn.microsoft.com/ru-ru/dotnet/api/system.span-1?view=net-7.0);
 *   [ReadOnlySpan](https://learn.microsoft.com/ru-ru/dotnet/api/system.readonlyspan-1?view=net-7.0);
 
+**Механизмы по работе с памятью предоставляемые классами Marshal и NativeLibrary использовать запрещено.**
+
 В качестве передаваемых данных должна использоваться пользовательская структура данных ([struct](https://learn.microsoft.com/ru-ru/dotnet/csharp/language-reference/builtin-types/struct)) содержащая в себе не менее двух полей ([свойств](https://learn.microsoft.com/ru-ru/dotnet/csharp/properties)). Передаваемые данные должны выводиться в консоль для проверки корректности передачи.
