@@ -70,35 +70,99 @@
             "modifiers": [
                 {
                     "condition": "(Variant == \"Variant #1\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #2\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #3\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #4\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #5\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #6\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #7\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs",
+                        "LabTemplate.Tests/Collection/ParallelogramAndParallelepiped.cs"
+                    ]
                 },
                 {
                     "condition": "(Variant == \"Variant #8\")",
-                    "exclude": []
+                    "exclude": [
+                        "LabTemplate.Tests/Collection/RhombAndCube.cs",
+                        "LabTemplate.Tests/Collection/TriangleAndCone.cs",
+                        "LabTemplate.Tests/Collection/CircleAndPyramid.cs",
+                        "LabTemplate.Tests/Collection/SquareAndCylinder.cs",
+                        "LabTemplate.Tests/Collection/TrapezoidAndPrism.cs",
+                        "LabTemplate.Tests/Collection/RectangleAndSphere.cs",
+                        "LabTemplate.Tests/Collection/EllipseAndEllipsoid.cs"
+                    ]
                 }
             ]
         }

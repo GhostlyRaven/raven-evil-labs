@@ -3,7 +3,7 @@
 namespace LabTemplate.Tests;
 
 [TestCaseOrderer(XunitOrderer.OrdererTypeName, XunitOrderer.OrdererAssemblyName)]
-public sealed class FigureTest
+public sealed class EllipseAndEllipsoid
 {
     [InlineData(false, new double[] { 1, 2, 3, 4 })]
     [InlineData(true, new double[] { 1, 2, 3, 4 })]
