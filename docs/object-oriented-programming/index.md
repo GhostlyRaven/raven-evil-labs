@@ -13,7 +13,19 @@
 
 ### **Шаблоны для выполнения лабораторных работ**
 
-#### ⚠️ **Находятся в процессе разработки** ⚠️
+* [Nuget пакет с шаблонами]({{ site.repository-files-baseurl }}/all-packages/LabTemplates.1.0.0.nupkg)
+
+Команда для установки шаблонов:
+
+```console
+dotnet new install .\LabTemplates.1.0.0.nupkg
+```
+
+Команда для удаления шаблонов:
+
+```console
+dotnet new uninstall LabTemplates
+```
 
 ### **Вопросы к экзамену или зачету**
 * [Список вопросов]({{ site.baseurl }}/object-oriented-programming/tickets/questions.html)
