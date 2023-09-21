@@ -5,10 +5,10 @@ namespace LabTemplate.Tests;
 [TestCaseOrderer(XunitOrderer.OrdererTypeName, XunitOrderer.OrdererAssemblyName)]
 public sealed class TrapezoidAndPrism
 {
-    [InlineData(false, new double[] { 0, -2, -2, -2 })]     // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(false, new double[] { 6, 2, 2, 2 })]        // OK;
-    [InlineData(true, new double[] { 0, -2, -2 })]          // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(true, new double[] { 12.56, 2, 2 })]        // OK;
+    [InlineData(false, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(false, new double[] { 24, 5, 7, 6 })]
+    [InlineData(true, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(true, new double[] { 72, 5, 7, 6 })]
     [Theory, XunitOrdererFact(1)]
     public static void CalculatePerimeter(bool is3DFigure, double[] testData)
     {
@@ -39,10 +39,10 @@ public sealed class TrapezoidAndPrism
         Assert.Equal(testData[0], result);
     }
 
-    [InlineData(false, new double[] { 0, -2, -2, -2 })]     // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(false, new double[] { 1.732, 2, 2, 2 })]    // OK;
-    [InlineData(true, new double[] { 0, -2, -2 })]          // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(true, new double[] { 12.56, 2, 2 })]        // OK;
+    [InlineData(false, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(false, new double[] { 30, 5, 7, 6 })]
+    [InlineData(true, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(true, new double[] { 214, 5, 7, 6 })]
     [Theory, XunitOrdererFact(2)]
     public static void CalculateSquare(bool is3DFigure, double[] testData)
     {
@@ -73,10 +73,10 @@ public sealed class TrapezoidAndPrism
         Assert.Equal(testData[0], result);
     }
 
-    [InlineData(false, new double[] { 0, -2, -2, -2 })]     // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(false, new double[] { 0, 2, 2, 2 })]        // OK - throw new InvalidOperationException();
-    [InlineData(true, new double[] { 0, -2, -2 })]          // OK - throw new ArgumentOutOfRangeException();
-    [InlineData(true, new double[] { 8.377, 2, 2 })]        // OK;
+    [InlineData(false, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(false, new double[] { double.NaN, 5, 7, 6 })]
+    [InlineData(true, new double[] { double.NaN, -5, -7, -6 })]
+    [InlineData(true, new double[] { 210, 5, 7, 6 })]
     [Theory, XunitOrdererFact(3)]
     public static void CalculateVolume(bool is3DFigure, double[] testData)
     {
