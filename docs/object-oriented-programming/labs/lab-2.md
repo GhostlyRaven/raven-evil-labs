@@ -33,13 +33,48 @@
 
 ### **ВАРИАНТЫ**
 
-| № | RU | ENG | Формулы |
+| № | RU | ENG |
+|:-:|:-:|:-:|
+| **1** | **Треугольник и конус** | **Triangle and cone** |
+| **2** | **Квадрат и цилиндр** | **Square  and cylinder** |
+| **3** | **Прямоугольник и шар** | **Rectangle and ball** |
+| **4** | **Круг и пирамида** | **Circle and pyramid** |
+| **5** | **Ромб и куб** | **Rhomb and cube** |
+| **6** | **Эллипс и эллипсоид** | **Ellipse and ellipsoid** |
+| **7** | **Трапеция и призма** | **Trapezoid and prism** |
+| **8** | **Параллелограмм и параллелепипед** | **Parallelogram and parallelepiped** |
+
+**При реализации методов вычисляющих периметр, площадь и объем обязательно использовать формулы из таблиц представленных ниже.**
+
+### **Формулы применяемые для расчётов в 2D фигурах**
+
+| **Фигура** | **P** | **S** | **V** |
 |:-:|:-:|:-:|:-:|
-| **1** | **Треугольник и конус** | **Triangle and cone** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/triangle), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/triangle) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/cone) |
-| **2** | **Квадрат и цилиндр** | **Square  and cylinder** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/square), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/square) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/cylinder) |
-| **3** | **Прямоугольник и сфера** | **Rectangle and sphere** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/rectangle), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/rectangle1) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/sphere) |
-| **4** | **Круг и пирамида** | **Circle and pyramid** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/circle), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/circle) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/pyramid) |
-| **5** | **Ромб и куб** | **Rhomb and cube** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/diamond), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/diamond) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/cube) |
-| **6** | **Эллипс и эллипсоид** | **Ellipse and ellipsoid** | [**Периметр**](https://www.webmath.ru/poleznoe/formules_15_12.php), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/ovals) **и** [**объем**](https://geleot.ru/education/math/geometry/volume/ellipsoid) |
-| **7** | **Трапеция и призма** | **Trapezoid and prism** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/trapezium), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/trapezium) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/prism) |
-| **8** | **Параллелограмм и параллелепипед** | **Parallelogram and parallelepiped** | [**Периметр**](https://ru.onlinemschool.com/math/assistance/figures_perimeter/parallelogram), [**площадь**](https://ru.onlinemschool.com/math/assistance/figures_area/parallelogram) **и** [**объем**](https://ru.onlinemschool.com/math/assistance/figures_volume/parallelepiped) |
+| **Треугольник** | $a + b + c$ | $\sqrt{p * (p-a) * (p-b) * (p-c)}$ | $-$ |
+| **Квадрат** | $4 * a$ | $a^2$ | $-$ |
+| **Прямоугольник** | $2 * (a + b)$ | $a * b$ | $-$ |
+| **Круг** | $2 * \pi * r$ | $\pi * r^2$ | $-$ |
+| **Ромб** | $4 * a$ | $\frac{1}{2} * d_1 * d_2$ | $-$ |
+| **Эллипс** | $4 * \frac{\pi * a * b + (a - b)}{a + b}$ | $\pi * a * b$ | $-$ |
+| **Трапеция** | $a + b + c + d$ | $\frac{1}{2} * (a + b) * h$ | $-$ |
+| **Параллелограмм** | $2 * (a + b)$ | $a * h$ | $-$ |
+
+### **Формулы применяемые для расчётов в 3D фигурах**
+
+| **Фигура** | **P** | **S** | **V** |
+|:-:|:-:|:-:|:-:|
+| **Конус** | $2 * \pi * r$ | $\pi * r * l + \pi * r^2$ | $\frac{1}{3} * \pi * r^2 * h$ |
+| **Цилиндр** | $2 * \pi * r$  | $2 * \pi * r * h + 2 * \pi * r^2$ | $\pi * r^2 * h$ |
+| **Шар** | $2 * \pi * r$ | $4 * \pi * r^2$ | $\frac{4}{3} * \pi * r^3$ |
+| **Пирамида** | $4 * a$ | $\frac{1}{2} * P * l + a^2$ | $\frac{1}{3} * a^2 * h$ |
+| **Куб** | $12 * a$ | $6 * a^2$ | $a^3$ |
+| **Эллипсоид** | $4 * \frac{\pi * a * b + (a - b)}{a + b}$ | $\pi * a * b$ | $\frac{4}{3} * \pi * a * b * c$ |
+| **Призма** | $6 * a + 3 * h$ | $3 * a * h + \frac{\sqrt{3} * a^2}{2}$ | $\frac{\sqrt{3} * a^2}{4} * h$ |
+| **Параллелепипед** | $4 * (a + b + h)$ | $2 * (a * b + a * h + b * h)$ | $a * b * h$ |
+
+### **Теория по математике. Поможет при работе с формулами для расчётов 😊🎓**
+* [Источник #1](https://ru.onlinemschool.com/math/assistance/)
+* [Источник #2](https://www.webmath.ru/poleznoe/formules_15_12.php)
+* [Источник #3](https://geleot.ru/education/math/geometry/volume/ellipsoid)
+* [Источник #4](https://mnogogranniki.ru/pravilnaya-treugolnaya-prizma.html)
+* [Источник #5](https://matematikalegko.ru/piramidi/pravilnye-piramidy-ploshhad-poverxnosti.html)
