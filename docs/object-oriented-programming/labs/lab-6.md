@@ -28,11 +28,11 @@
 
 ### **Схема №1 в UML-нотации**
 
-#### ⚠️ **Находится в процессе разработки** ⚠️
+![Схема приложения в UML-нотации]({{ site.repository-files-baseurl }}/object-oriented-programming/oop-lab-6-layer-1.png)
 
 ### **Схема №2 в UML-нотации**
 
-#### ⚠️ **Находится в процессе разработки** ⚠️
+![Схема приложения в UML-нотации]({{ site.repository-files-baseurl }}/object-oriented-programming/oop-lab-6-layer-2.png)
 
 Существует два способа внесения изменений в параметры игры Thief: Deadly Shadows:
 *   На основе смешений (Offsets);
