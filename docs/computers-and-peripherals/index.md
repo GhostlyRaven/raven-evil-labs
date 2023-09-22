@@ -4,9 +4,11 @@
 
 ### **Практики**
 * [Практика №1]({{ site.baseurl }}/computers-and-peripherals/practices/practice-1.html)
-* [Практика №1]({{ site.baseurl }}/computers-and-peripherals/practices/practice-2.html)
-* [Практика №1]({{ site.baseurl }}/computers-and-peripherals/practices/practice-3.html)
-* [Практика №1]({{ site.baseurl }}/computers-and-peripherals/practices/practice-4.html)
+* [Практика №2]({{ site.baseurl }}/computers-and-peripherals/practices/practice-2.html)
+* [Практика №3]({{ site.baseurl }}/computers-and-peripherals/practices/practice-3.html)
+* [Практика №4]({{ site.baseurl }}/computers-and-peripherals/practices/practice-4.html)
+* [Практика №5]({{ site.baseurl }}/computers-and-peripherals/practices/practice-5.html)
+* [Практика №6]({{ site.baseurl }}/computers-and-peripherals/practices/practice-6.html)
 
 ### **Лабораторные работы**
 * [Лабораторная работа №1]({{ site.baseurl }}/computers-and-peripherals/labs/lab-1.html)
