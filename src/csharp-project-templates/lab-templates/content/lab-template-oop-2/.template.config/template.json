@@ -23,9 +23,6 @@
             "replaces": "{TargetFramework}",
             "choices": [
                 {
-                    "choice": "net6.0"
-                },
-                {
                     "choice": "net7.0"
                 },
                 {
