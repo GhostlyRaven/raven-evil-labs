@@ -1,4 +1,4 @@
-# <img src="/images/raven-logo-32.png"></img> Raven evil labs
+# <img src="/images/logos/raven-logo-32.png"></img> Raven evil labs
 
 ### :warning: Репозиторий нуждаются в переработке :warning: 
 Репозиторий содержит материалы по преподаваемым дисциплинам.
