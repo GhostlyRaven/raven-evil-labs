@@ -8,6 +8,16 @@
 
 ### **ЗАДАНИЕ**
 
+---
+
+![rpi-pico]({{ site.repository-images-baseurl }}/rpi-pico-pinouts/rpi-pico.png)
+
+---
+
+![rpi-pico-w]({{ site.repository-images-baseurl }}/rpi-pico-pinouts/rpi-pico-w.png)
+
+---
+
 Разработать микропрограммы для микроконтроллера Raspberry Pi Pico, которые реализуют следующие функции:
 1.  Светодиод подключенным к пину D0 мигает каждые 5 секунд;
 2.  Светодиод подключенным к пину D0 загорается при нажатии на кнопку подключенную к пину D1;
