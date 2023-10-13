@@ -13,7 +13,7 @@
 
 ### **Шаблоны для выполнения лабораторных работ**
 
-* [Nuget пакет с шаблонами]({{ site.repository-files-baseurl }}/all-packages/LabTemplates.1.0.0.nupkg)
+* [Nuget пакет с шаблонами]({{ site.repository-files-baseurl }}/all-packages/LabTemplates.1.0.1.nupkg)
 
 Команда для установки шаблонов лабораторных работ:
 
