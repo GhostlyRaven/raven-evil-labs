@@ -18,7 +18,7 @@
 Команда для установки шаблонов лабораторных работ:
 
 ```console
-dotnet new install ./LabTemplates.1.0.0.nupkg
+dotnet new install ./LabTemplates.1.0.1.nupkg
 ```
 
 Команда для проверки установленных шаблонов лабораторных работ:
