@@ -13,12 +13,12 @@
 
 ### **Шаблоны для выполнения лабораторных работ**
 
-* [Nuget пакет с шаблонами]({{ site.repository-files-baseurl }}/all-packages/LabTemplates.1.0.1.nupkg)
+* [Nuget пакет с шаблонами]({{ site.repository-files-baseurl }}/all-packages/LabTemplates.1.0.2.nupkg)
 
 Команда для установки шаблонов лабораторных работ:
 
 ```console
-dotnet new install ./LabTemplates.1.0.1.nupkg
+dotnet new install ./LabTemplates.1.0.2.nupkg
 ```
 
 Команда для проверки установленных шаблонов лабораторных работ:

@@ -31,7 +31,7 @@ public sealed class DbContextTest
 
         try
         {
-            count = DbContextTestHelper.AddEntities();
+            count = DbContextTestHelper.UpdateEntities();
         }
         catch (Exception error)
         {
@@ -50,7 +50,7 @@ public sealed class DbContextTest
 
         try
         {
-            count = DbContextTestHelper.AddEntities();
+            count = DbContextTestHelper.ReadEntities();
         }
         catch (Exception error)
         {
@@ -69,7 +69,7 @@ public sealed class DbContextTest
 
         try
         {
-            count = DbContextTestHelper.AddEntities();
+            count = DbContextTestHelper.RemoveEntities();
         }
         catch (Exception error)
         {
