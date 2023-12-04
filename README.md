@@ -29,6 +29,7 @@
 * [Источник #2](https://www.mytechramblings.com/posts/create-dotnet-templates-for-visual-studio-part-1/)
 * [Источник #3](https://www.mytechramblings.com/posts/create-dotnet-templates-for-visual-studio-part-2/)
 * [Источник #4](http://json.schemastore.org/template)
+* [Источник #5](https://github.com/dotnet/templating/blob/1b735425ceba9f61e4c32c49bf32d900ffceed88/docs/Binding-and-project-context-evaluation.md)
 
 ### Правила допуска на экзамен или зачет
 

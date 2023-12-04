@@ -29,6 +29,31 @@
                     "choice": "net8.0"
                 }
             ]
+        },
+        "OperatingSystem": {
+            "type": "bind",
+            "datatype": "text",
+            "defaultValue": "",
+            "binding": "env:OS"
+        },
+        "IsWindows": {
+            "type": "computed",
+            "value": "OperatingSystem == Windows_NT",
+            "datatype": "bool"
+        },
+        "WindowsOriginalUserName": {
+            "type": "bind",
+            "datatype": "text",
+            "defaultValue": "",
+            "replaces": "{WindowsOriginalUserName}",
+            "binding": "env:USERNAME"
+        },
+        "UnixOriginalUserName": {
+            "type": "bind",
+            "datatype": "text",
+            "defaultValue": "",
+            "replaces": "{UnixOriginalUserName}",
+            "binding": "env:USER"
         }
     }
 }
