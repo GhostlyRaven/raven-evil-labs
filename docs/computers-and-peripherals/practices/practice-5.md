@@ -60,7 +60,7 @@ cd /home/pi/Desktop/Raven.Iot.Devices && ./Raven.Iot.Devices adder
 
 | |1|2|3|4|5|6|7|8|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**EXPANDER**|$7$|$6$|$5$|$4$|$0$|$1$|$2$|$3$|
+|**EXPANDER**|$0$|$1$|$2$|$3$|$4$|$5$|$6$|$7$|
 |**ADDER**|$S_{\text{1}}$|$S_{\text{2}}$|$S_{\text{3}}$|$S_{\text{4}}$|$S_{\text{5}}$|$S_{\text{6}}$|$S_{\text{7}}$|$S_{\text{8}}$|
 
 ---
