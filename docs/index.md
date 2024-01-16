@@ -1,5 +1,5 @@
 # **ПРАВИЛА ДОПУСКА НА ЭКЗАМЕН ИЛИ ЗАЧЕТ**
-* [Открыть для просмотра]({{ site.baseurl }}/admission-rules/index.html){: data-meter-name="test_1"}
+* [Открыть для просмотра]({{ site.baseurl }}/admission-rules/index.html){: data-meter-name="test_4"}
 
 # **ПЕРЕЧЕНЬ ДИСЦИПЛИН**
 
