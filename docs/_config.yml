@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: EVIL LABS
 description: Самые легкие лабораторные работы во вселенной 🌌 😂
 
+metrics-baseurl: http://metrics.klgraven.keenetic.pro:8080
+
 repository-src-baseurl: https://github.com/GhostlyRaven/raven-evil-labs/tree/main/src
 repository-files-baseurl: https://raw.githubusercontent.com/GhostlyRaven/raven-evil-labs/main/files
 repository-images-baseurl: https://raw.githubusercontent.com/GhostlyRaven/raven-evil-labs/main/images

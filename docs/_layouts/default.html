@@ -16,12 +16,18 @@
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
 
     <script type="text/javascript">
+        SiteMetrics = {
+            baseUrl: "{{ site.metrics-baseurl }}",
+            showError: true
+        }
+
         MathJax = {
             tex: {
                 inlineMath: [['$', '$']]
             }
         };
     </script>
+    <script type="text/javascript" src="{{ '/assets/js/metrics.js' | relative_url }}"></script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
