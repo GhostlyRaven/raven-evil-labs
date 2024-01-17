@@ -9,7 +9,8 @@ if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
                     headers: {
                         "Content-Type": "application/json;charset=utf-8"
                     },
-                    body: JSON.stringify({ "MeterName": meterName })
+                    body: JSON.stringify({ "MeterName": meterName }),
+                    referrerPolicy: "unsafe-url"
                 });
             } catch (error) {
                 if (SiteMetrics.showError) {
