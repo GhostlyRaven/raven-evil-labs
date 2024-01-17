@@ -10,7 +10,7 @@ if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
                         "Content-Type": "application/json;charset=utf-8"
                     },
                     body: JSON.stringify({ "MeterName": meterName }),
-                    referrerPolicy: "unsafe-url"
+                    referrerPolicy: "no-referrer"
                 });
             } catch (error) {
                 if (SiteMetrics.showError) {
