@@ -1,8 +1,6 @@
 # **ПРАВИЛА ДОПУСКА НА ЭКЗАМЕН ИЛИ ЗАЧЕТ**
 * [Открыть для просмотра]({{ site.baseurl }}/admission-rules/index.html){: data-meter-name="test_4"}
 
-<button data-meter-name="test_1" onclick="window.sendMetrics()">Link #1</button>
-
 # **ПЕРЕЧЕНЬ ДИСЦИПЛИН**
 
 * [Моделирование систем]({{ site.baseurl }}/modeling-of-systems/index.html)
