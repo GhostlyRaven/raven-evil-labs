@@ -7,7 +7,7 @@ if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
                 _ = await fetch(SiteMetrics.baseUrl, {
                     method: "POST",
                     headers: {
-                        "Content-Type": "application/json;charset=utf-8"
+                        "Content-Type": "text/plain;charset=utf-8"
                     },
                     body: JSON.stringify({ "MeterName": meterName })
                 });
