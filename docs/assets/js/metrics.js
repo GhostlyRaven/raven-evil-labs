@@ -9,7 +9,7 @@ if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
                     headers: {
                         "Content-Type": "text/plain;charset=utf-8"
                     },
-                    body: JSON.stringify({ "MeterName": meterName })
+                    body: meterName
                 });
             } catch (error) {
                 if (SiteMetrics.showError) {
