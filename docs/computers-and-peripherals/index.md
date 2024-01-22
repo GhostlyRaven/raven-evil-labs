@@ -23,5 +23,5 @@
 * [Arduino Pico Core](https://github.com/earlephilhower/arduino-pico)
 
 ### **Литература**
-* [Справочные материалы по работе с Raspberry Pi Pico](https://www.raspberrypi.com/documentation/pico-sdk)
-* [Справочные материалы по работе с таймером в Raspberry Pi Pico](https://www.raspberrypi.com/documentation/pico-sdk/time_8h.html)
+* [Справочные материалы по работе с Raspberry Pi Pico](https://www.raspberrypi.com/documentation/pico-sdk){: data-meter-name="raspberry_pi_pico_1_computers_and_peripherals"}
+* [Справочные материалы по работе с таймером в Raspberry Pi Pico](https://www.raspberrypi.com/documentation/pico-sdk/time_8h.html){: data-meter-name="raspberry_pi_pico_2_computers_and_peripherals"}
