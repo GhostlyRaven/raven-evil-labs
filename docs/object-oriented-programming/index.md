@@ -8,10 +8,8 @@
 * [Лабораторная работа №2]({{ site.baseurl }}/object-oriented-programming/labs/lab-2.html){: #oop-list-item-1 data-meter-name="laboratory_work_2_object_oriented_programming"}
 * [Лабораторная работа №3]({{ site.baseurl }}/object-oriented-programming/labs/lab-3.html){: #oop-list-item-1 data-meter-name="laboratory_work_3_object_oriented_programming"}
 * [Лабораторная работа №4]({{ site.baseurl }}/object-oriented-programming/labs/lab-4.html){: #oop-list-item-1 data-meter-name="laboratory_work_4_object_oriented_programming"}
-* [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html){: #oop-list-item-1 data-meter-name="
-laboratory_work_5_object_oriented_programming"}
-* [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html){: #oop-list-item-2 data-meter-name="
-laboratory_work_6_object_oriented_programming"}
+* [Лабораторная работа №5]({{ site.baseurl }}/object-oriented-programming/labs/lab-5.html){: #oop-list-item-1 data-meter-name="laboratory_work_5_object_oriented_programming"}
+* [Лабораторная работа №6]({{ site.baseurl }}/object-oriented-programming/labs/lab-6.html){: #oop-list-item-2 data-meter-name="laboratory_work_6_object_oriented_programming"}
 
 ### **Шаблоны для выполнения лабораторных работ**
 
@@ -42,7 +40,7 @@ dotnet new uninstall LabTemplates
 * [Rider]({{ site.external-links.item-3 }})
 * [Visual Studio Code]({{ site.external-links.item-1 }})
 * [Visual Studio 2022]({{ site.external-links.item-2 }})
-* [NET 7.0]({{ site.external-links.item-4 }})
+* [NET 8.0]({{ site.external-links.item-4 }})
 
 ### **Литература**
 * [Справочные материалы по C#]({{ site.repository-files-baseurl }}/object-oriented-programming/Справочные материалы по CSharp.pdf){: data-meter-name="reference_materials_on_csharp_object_oriented_programming"}

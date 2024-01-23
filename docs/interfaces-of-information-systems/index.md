@@ -13,4 +13,4 @@
 * [Rider]({{ site.external-links.item-3 }})
 * [Visual Studio Code]({{ site.external-links.item-1 }})
 * [Visual Studio 2022]({{ site.external-links.item-2 }})
-* [NET 7.0]({{ site.external-links.item-4 }})
+* [NET 8.0]({{ site.external-links.item-4 }})
