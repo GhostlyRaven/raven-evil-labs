@@ -1,5 +1,5 @@
 if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
-    window.addEventListener("click", async function (args) {
+    const handler = async function (args) {
         const meterName = args.target.dataset.meterName;
 
         if (meterName && args.target.tagName === "A") {
@@ -17,5 +17,8 @@ if (typeof SiteMetrics !== typeof undefined && SiteMetrics.baseUrl) {
                 }
             }
         }
-    }, false);
+    }
+
+    window.addEventListener("click", handler, false);
+    window.addEventListener("auxclick", handler, false);
 }
