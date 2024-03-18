@@ -9,6 +9,10 @@
 * [Практика №4]({{ site.baseurl }}/computers-and-peripherals/practices/practice-4.html){: data-meter-name="practical_work_4_computers_and_peripherals"}
 * [Практика №5]({{ site.baseurl }}/computers-and-peripherals/practices/practice-5.html){: data-meter-name="practical_work_5_computers_and_peripherals"}
 
+---
+
+* [Практика №1 (ЗАО)]({{ site.baseurl }}/computers-and-peripherals/practices/practice-6.html){: data-meter-name="practical_work_6_computers_and_peripherals"}
+
 ### **Лабораторные работы**
 * [Лабораторная работа №1]({{ site.baseurl }}/computers-and-peripherals/labs/lab-1.html){: data-meter-name="laboratory_work_1_computers_and_peripherals"}
 * [Лабораторная работа №2]({{ site.baseurl }}/computers-and-peripherals/labs/lab-2.html){: data-meter-name="laboratory_work_2_computers_and_peripherals"}
